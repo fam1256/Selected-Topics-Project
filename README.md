@@ -1,8 +1,8 @@
 # Selected-Topics-Project
 React + Nodejs + Msql
-Frontend
+ Frontend
   - cd frontend
   - npm strat
-Backend
+ Backend
   - cd backend
   - npm run dev
