@@ -5,6 +5,7 @@ React + Nodejs + Msql
  
   - cd frontend
   - npm strat
+  - 
  Backend
  
   - cd backend
