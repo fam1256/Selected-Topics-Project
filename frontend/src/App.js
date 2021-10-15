@@ -145,7 +145,7 @@ function App() {
               <table>
               <p className="card-text">&nbsp;&nbsp;credit: {val.name}</p>
               <p className="card-text" >&nbsp;&nbsp;Click on image to see original size </p>
-              <a href = {val.url} download><img className="card-image" src={val.url} width="1000" height="1000"/></a>
+              <a href = {val.url} download><img className="card-image" src={val.url} width="1000" height="500"/></a>
               <p className="card-text">&nbsp;&nbsp;Type: {val.type}</p>
               <div className="d-flex">
                   <input
