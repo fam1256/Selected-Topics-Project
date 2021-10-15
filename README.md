@@ -4,8 +4,9 @@ React + Nodejs + Msql
  Frontend
  
   - cd frontend
+  - npm install
   - npm strat
-  - 
+
  Backend
  
   - cd backend
