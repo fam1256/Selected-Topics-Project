@@ -1,5 +1,5 @@
 # Selected-Topics-Project
-React + Nodejs + Msql
+React + Nodejs + MySQL
 
  Frontend
  
