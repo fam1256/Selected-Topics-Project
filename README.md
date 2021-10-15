@@ -11,3 +11,7 @@ React + Nodejs + Msql
  
   - cd backend
   - npm run dev
+
+ Xampp
+  - mysql -u root
+  - source fid.mysql
